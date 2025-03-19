@@ -1,4 +1,3 @@
-
 class PlayFairCipher:
     def __init__(self) -> None:
         pass

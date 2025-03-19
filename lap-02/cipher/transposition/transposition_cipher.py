@@ -13,6 +13,7 @@ class TranspositionCipher:
         
 
     def decrypt(self,text,key):
+        
         decrypted_text = [''] * key
         row, col = 0,0
         for symbol in text:
